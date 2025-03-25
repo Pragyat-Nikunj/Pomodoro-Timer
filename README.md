@@ -26,7 +26,7 @@ A sleek, minimalist web app to boost productivity using the Pomodoro Technique.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pomodoro-timer.git
+git clone https://pragyat-nikunj.github.io/Pomodoro-Timer/
 ```
 
 2. Open `index.html` in your browser
