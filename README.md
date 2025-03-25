@@ -22,14 +22,6 @@ A sleek, minimalist web app to boost productivity using the Pomodoro Technique.
 - Web browser (Chrome, Firefox, Safari, etc.)
 - No additional installations required
 
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://pragyat-nikunj.github.io/Pomodoro-Timer/
-```
-
-2. Open `index.html` in your browser
 
 ## 📱 How to Use
 
